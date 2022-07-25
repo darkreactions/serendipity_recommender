@@ -1,0 +1,12 @@
+Model Code,Model Name
+KNN,K Nearest Neighbors
+DT,Decision Tree
+CLB,Bayesian Additive Regression Trees with Transfer Learning (BART+TL)
+PLT,PLATIPUS
+MIT,Bayesian Optimization using Gaussian Processes
+F,Atinary Falcon
+G,Falcon GPBO
+D,Falcon DNGO
+GR,Gryffin
+TA,Gaussian Processes with Transfer Acquisition Functions
+FH,Falcon with Historical data
