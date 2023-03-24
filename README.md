@@ -1,14 +1,5 @@
 # Serendipity Recommender
-Code related to serendipity recommender paper
-
-## Table of Contents  
-[Data](#data)  
-
-
-
-data
-<a name="data"/>
-## Data
+Code and data related to serendipity recommender paper
 
 ### Training data
 
